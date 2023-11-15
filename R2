@@ -1,1 +1,1 @@
-Solo hacer commit
+Automatizando la instalacion de un LAMP y desplegando aplicacion php.
